@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ahmad
-- 👀 I’m interested in data science, statistics in healthcare, and full-stack web development
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in statistics, data science, database management, AI in healthcare, and full-stack web development
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on r / python projects
-- 📫 How to reach me ahmad2k6@gmail.com
+- 📫 How to reach me ahmed2k2a@hotmail.com
 
 <!---
 ahalansari/ahalansari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
